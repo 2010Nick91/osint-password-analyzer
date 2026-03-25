@@ -21,6 +21,9 @@ On Terminal or Cmd run:
 1.- Clone repository:
 ```bash
 git clone https://github.com/2010Nick91/ai-password-and-email-analyzer.git
+```
+then
+```bash
 cd ai-password-and-email-analyzer
 ```
 
