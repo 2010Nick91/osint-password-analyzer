@@ -9,10 +9,10 @@ of using a given password, not just its complexity.
 
 ## Characteristics:
 
-    - Password strength scoring (0-100)
-    - OSINT-based risk detection (slightly spanish oriented)
-    - Intuitive and simple feedback
-    - Simple web interface using flask
+- Password strength scoring (0-100)
+- OSINT-based risk detection (slightly spanish oriented)
+- Intuitive and simple feedback
+- Simple web interface using flask
 
 ## Instalation:
 
@@ -90,14 +90,6 @@ requirements.txt   # Dependencies
 ```
 
 ## Limitations:.txt # Dependencies
-Limitations
-System relies on predefined list of common elements
-
-Does not perform real-time OSINT analysis
-
-False positives may occur
-
-Scoring system is not scientifically validated
 
 - System relies on predefined list of common elements
 - Does not perform real-time OSINT analysis
