@@ -20,11 +20,11 @@ On Terminal or Cmd run:
 
 1.- Clone repository:
 ```bash
-git clone https://github.com/2010Nick91/ai-password-and-email-analyzer.git
+git clone https://github.com/2010Nick91/osint-password-analyzer.git
 ```
 then
 ```bash
-cd ai-password-and-email-analyzer
+cd osint-password-analyzer
 ```
 
 2.- Create a virtual environment:
