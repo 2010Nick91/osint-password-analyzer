@@ -98,7 +98,7 @@ app.py             # Flask application
 requirements.txt   # Dependencies
 ```
 
-## Limitations:.txt # Dependencies
+## Limitations:
 
 - System relies on predefined list of common elements
 - Does not perform real-time OSINT analysis
